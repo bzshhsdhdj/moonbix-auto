@@ -942,6 +942,7 @@
 
 
 
+
 ![photo_2024-11-23_01-27-37](https://github.com/user-attachments/assets/a57b9a2d-07b1-44de-bbba-d1e9a89b6836)
 
 Moonbix Autoclicker is a powerful and handy tool designed to automate click tasks on your computer. If you need to click repeatedly in games, applications or web pages, Moonbix Autoclicker offers a simple solution to save you time and effort. With customizable settings, you can adjust the speed and nature of clicks to suit your needs.
